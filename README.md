@@ -43,7 +43,6 @@ Note: The PDCA column shows Why and Who both mapping to Plan, and the loop back 
 ---
 
 Author: Adam McKinski  
-Company: Cloud Sentinel Solutions, LLC  
 Year: 2026
 
 "The 5W Security Framework" is an original work by Adam McKinski.  
