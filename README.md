@@ -38,11 +38,13 @@ Note: The PDCA column shows Why and Who both mapping to Plan, and the loop back 
 
 | Layer                | Sample Technologies                  | Subject             | PDCA |
 |----------------------|--------------------------------------|---------------------|------|
-| Technology Enablement| SIEM, EDR, SOAR \; ZT, DevSecOps, IaC | Execution Capability| All  |
+| Technology Enablement| SIEM, EDR, SOAR \| ZT, DevSecOps, IaC | Execution Capability| All  |
+
+Note: The | separates operational detection/response tools (SIEM, EDR, SOAR) from engineering and architecture practices (ZT, DevSecOps, IaC).
 
 ---
 
-Author: Adam McKinski  
+Author: Adam McKinski
 Year: 2026
 
 "The 5W Security Framework" is an original work by Adam McKinski.  
