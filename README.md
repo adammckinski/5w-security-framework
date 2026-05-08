@@ -38,7 +38,7 @@ Note: The PDCA column shows Why and Who both mapping to Plan, and the loop back 
 
 | Layer                | Sample Technologies                  | Subject             | PDCA |
 |----------------------|--------------------------------------|---------------------|------|
-| Technology Enablement| SIEM, EDR, SOAR | ZT, DevSecOps, IaC | Execution Capability| All  |
+| Technology Enablement| SIEM, EDR, SOAR \| ZT, DevSecOps, IaC | Execution Capability| All  |
 
 ---
 
