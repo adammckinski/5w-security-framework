@@ -1,6 +1,7 @@
 # The 5W Security Framework
 
-
+### Download
+[📄 Download PDF Version 1.0](The_5W_Security_Framework.pdf)
 
 Why justifies it?  
 Who owns it?  
