@@ -50,5 +50,5 @@ Year: 2026
 "The 5W Security Framework" is an original work by Adam McKinski.  
 © 2026 Adam McKinski. Some rights reserved.  
 
-Licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Licensed under Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0).  
 See [License.md](License.md) for full terms.
