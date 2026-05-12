@@ -9,7 +9,7 @@ What controls it?
 Where is the threat?  
 When do we act?  
 
-- Then back to Why
+→ Then back to Why
 
 ISO 27001 ISMS (PDCA) with NIST CSF (PDCA aligned)
 
